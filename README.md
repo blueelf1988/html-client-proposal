@@ -6,6 +6,42 @@
 
 ---
 
+## 预览 · Preview
+
+> 以下为真实交付效果（StyleWork 媒体矩阵内容运营全案 v4.5）。
+
+**封面 Hero** —— 流程动效线「From Prompt to Production」
+
+![Hero](docs/screenshots/00-hero.png)
+
+**01 诊断 Diagnosis** —— 刷 vs 搜、SERP 实测、心智等式
+
+![Diagnosis](docs/screenshots/01-diagnosis.png)
+
+**02 平台定位 Platform** —— 功能模块、决策人、Journey Map
+
+![Platform](docs/screenshots/02-platform.png)
+
+**03 内容架构 Architecture** —— 栏目占比环形图、生产线
+
+![Architecture](docs/screenshots/03-architecture.png)
+
+**04 增长引擎 Growth Engine** —— 关键词、GEO、线索漏斗
+
+![Growth](docs/screenshots/04-growth.png)
+
+**07 商业条款 Commercial** —— 双档报价卡、增值服务
+
+![Commercial](docs/screenshots/05-commercial.png)
+
+**移动端 Mobile**
+
+<p align="center">
+  <img src="docs/screenshots/06-mobile-hero.png" width="280" alt="Mobile" />
+</p>
+
+---
+
 ## 一、它能做什么
 
 - 读取 Markdown / Word / 飞书文档 / 纯文本方案，重排为可滚动的交互式网页
